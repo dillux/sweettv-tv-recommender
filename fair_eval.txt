@@ -1,0 +1,2 @@
+MAP@5 popularity (repeats allowed, as submitted)     = 0.620316   (4799 users)
+MAP@5 popularity (history excluded, fair protocol)   = 0.189635   (4799 users)
