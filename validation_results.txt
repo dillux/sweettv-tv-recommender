@@ -1,0 +1,17 @@
+schedule 11-20: 1074235 rows, 115613 labelled
+schedule 21-30: 1074394 rows, 121505 labelled
+schedule 31-42: 1295378 rows, 144774 labelled
+candidate pool (test weeks): 6636
+view rows: 5821987
+train interactions: 1446771 over 4833 users
+validation interactions: 959681 over 4799 users
+validation cohort: 4799
+overlap rule: >= 300s or >= 30% of airtime
+
+MAP@5 popularity: 0.620316
+MAP@5 co-view: 0.184800
+MAP@5 content: 0.037238
+MAP@5 hybrid: 0.184800
+
+selected: popularity
+cold-start test users: 10 of 1260
